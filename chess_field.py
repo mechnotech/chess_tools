@@ -135,8 +135,6 @@ class Bishop(Piece):
 
 
 class Queen(Rook, Bishop):
-    def __init__(self):
-        super().__init__()
 
     def __str__(self):
         return 'Q'  # u'\u2655'
