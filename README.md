@@ -1,4 +1,4 @@
-![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
+
 # chess_tools
 Chess field attack calculation script
 
